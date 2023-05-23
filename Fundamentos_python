@@ -1,0 +1,5 @@
+#Numeros
+edad = 30
+nombre = "Roberto"
+apellido = "Chavez"
+print 
